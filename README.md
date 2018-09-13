@@ -100,4 +100,3 @@ John Checked In: "At Abbey Road Studios"
   Friday, Feb 03, 2017
 """
 ```
-**(check tests to see more examples)**
